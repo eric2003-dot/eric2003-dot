@@ -1,4 +1,5 @@
 ### Hi there 👋
+-I'm currenty working on my github profile.
 
 <!--
 **eric2003-dot/eric2003-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
